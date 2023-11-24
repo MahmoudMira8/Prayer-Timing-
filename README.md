@@ -1,9 +1,18 @@
-# React + Vite
+# Prayer Times App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based application that displays prayer times and the time remaining for the next prayer. It utilizes modern technologies such as ReactJS, Vite, Moment, and Axios to fetch and display accurate prayer times.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Prayer-Timing-
+- Displays prayer times for different locations.
+- Calculates and shows the time remaining for the next prayer.
+- Simple and intuitive user interface.
+
+## Technologies Used
+
+- ReactJS: A JavaScript library for building user interfaces.
+- Vite: A fast build tool that provides a smooth development experience.
+- Moment: A JavaScript library for parsing, validating, manipulating, and formatting dates.
+- Axios: A promise-based HTTP client for making requests.
+
+live demo [here](https://prayertiming1212.netlify.app/).
